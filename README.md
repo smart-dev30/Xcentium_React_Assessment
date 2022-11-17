@@ -1,6 +1,6 @@
 # Xcentium React App(Javascript)
 
-This is the NEAR token explorer written by `smart-dev30`.
+This is the Xcentium OMDB test project written by `smart-dev30`.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
